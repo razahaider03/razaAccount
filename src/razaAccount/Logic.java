@@ -14,9 +14,7 @@ class Logic extends Account
 {
 
     /**
-     * This is the method that will ultimately get called when the
-     * on-screen button labelled 'Process...' is pressed.
-     * @param args
+     * This is the method that will ultimately get called
      */
 
     public static
